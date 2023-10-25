@@ -20,6 +20,6 @@ pymongo==4.3.2
 pyparsing==3.0.9
 rich==12.6.0
 typing_extensions==4.4.0
-Werkzeug==2.2.2
+Werkzeug==3.0.1
 wrapt==1.14.1
 zipp==3.10.0
